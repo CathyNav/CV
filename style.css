@@ -16,7 +16,7 @@
 
 /* HEADER */
 header{
-    background: linear-gradient(cyan,blue, cyan);
+    /* background: linear-gradient(cyan,blue, cyan); */
     width: 100%;
 }
 
@@ -50,6 +50,8 @@ header{
     padding: 1rem;
     justify-self: center;
     flex :1 1 200px;
+    a{
+    color:black;}
 }
 
 .div3{
